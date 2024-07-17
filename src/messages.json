@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "username": "User 1",
+        "title":"Message from User 1",
+        "message":"Hello Owner, How are you doing?",
+        "received": "5 minutes ago"
+    },
+    {
+        "id": 2,
+        "username": "User 2",
+        "title":"Message from User 1",
+        "message":"Hello Abiskar, Nice to see with such amaging app",
+        "received": "1 hours ago"
+    },
+    {
+        "id": 3,
+        "username": "User 3",
+        "message":"I was so excited to see such amazing features and want to see more in this same app",
+        "received": "2 minutes ago"
+    },
+    {
+        "id": 4,
+        "username": "User 4",
+        "title":"Message from User 2",
+        "message":"Hello Owner, How are you doing?",
+        "received": "5 hours ago"
+    }
+]
