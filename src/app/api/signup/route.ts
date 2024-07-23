@@ -38,8 +38,8 @@ export const POST = async (request: Request) => {
                 status:400
             })
         }else{
+           const hashPassword = await bcrypt.hash(password,10)
 
-            const hashPassword = await bcrypt.hash(password,10)
 
             emailExist.password = hashPassword;
             emailExist.verifyCode = verifyCode;

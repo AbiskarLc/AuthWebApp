@@ -10,6 +10,10 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^0.0.34",
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-alert-dialog": "^1.1.1",
     "@radix-ui/react-label": "^2.1.0",
@@ -27,6 +31,7 @@
     "clsx": "^2.1.1",
     "embla-carousel-autoplay": "^8.1.6",
     "embla-carousel-react": "^8.1.6",
+    "framer-motion": "^11.3.6",
     "lucide-react": "^0.402.0",
     "mongoose": "^8.4.4",
     "next": "14.2.4",
@@ -42,7 +47,8 @@
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7",
     "usehooks-ts": "^3.1.0",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "zustand": "^4.5.4"
   },
   "devDependencies": {
     "@types/node": "^20",
